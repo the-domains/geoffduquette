@@ -1,0 +1,14 @@
+layout_spectrum: 0.5451128
+color:
+  saturation: 0.575188
+  lightness: 0.4742213
+  brandStrength: 0.5158934
+  brandColors:
+    - '#010101'
+    - '#FDFCFC'
+    - '#885B54'
+    - '#392720'
+    - '#B49089'
+  rhythmicContrast: 0.8039742
+typography_spectrum: 0.09076262
+name: GeoffDuquette
