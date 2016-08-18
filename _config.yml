@@ -1,14 +1,26 @@
-layout_spectrum: 0.5451128
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1079484
 color:
-  saturation: 0.575188
-  lightness: 0.4742213
-  brandStrength: 0.5158934
+  saturation: 0.6160043
+  brandStrength: 0.5257788
+  lightness: 0.4215897
   brandColors:
-    - '#010101'
-    - '#FDFCFC'
-    - '#885B54'
-    - '#392720'
-    - '#B49089'
+    - '#000000'
+    - '#3C3E3B'
+    - '#54D9FC'
+    - '#B0636D'
+    - '#E6E5E6'
   rhythmicContrast: 0.8039742
-typography_spectrum: 0.09076262
+layout_spectrum: 1
 name: GeoffDuquette
